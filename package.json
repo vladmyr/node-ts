@@ -9,7 +9,9 @@
   "devDependencies": {
     "typescript": "next"
   },
-  "scripts": {},
+  "scripts": {
+    "tsc": "./node_modules/.bin/tsc --alwaysStrict"
+  },
   "author": "Volodymyr Khytskyi",
   "license": "MIT"
 }
