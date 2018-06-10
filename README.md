@@ -1,5 +1,5 @@
 # Node.js + TypeScript = Node.ts boilerplate
-Simple and ready to use boilerplate with configured TypeScript nightly builds. Also contains Visual Studio Code configuration to work out of the box.
+Simple and ready to use boilerplate with configured TypeScript latest build. Also contains predefined Visual Studio Code configuration to work out of the box.
 
 ## Up and running
 ```bash

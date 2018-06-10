@@ -1,6 +1,7 @@
 {
   "compileOnSave": true,
   "compilerOptions": {
+    "alwaysStrict": true,
     "outDir": "./dist",
     "module": "commonjs",
     "target": "es5",
